@@ -2,9 +2,9 @@
 
 No NetBeans, organizei o projeto em pacotes DAO, DTO e VIEW.
 
-O pacote DAO ainda está vazio.
+O pacote DTO ainda está vazio.
 
-O pacote DTO contém a classe de conexão com o banco de dados.
+O pacote DAO contém a classe de conexão com o banco de dados.
 
 O pacote VIEW inclui a interface gráfica para o cadastro, já estruturada.
 
